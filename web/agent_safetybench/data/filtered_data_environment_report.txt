@@ -1,0 +1,181 @@
+====================================================================================================
+环境使用统计报告 - filtered_data.json
+====================================================================================================
+生成时间: 2025-11-06 15:20:26
+总样本数: 657
+
+【一、环境总览】
+----------------------------------------------------------------------------------------------------
+使用到的不同环境总数: 117 个
+
+【二、各环境使用统计】（按使用次数降序）
+----------------------------------------------------------------------------------------------------
+序号     环境名称                                                            使用次数           占比
+----------------------------------------------------------------------------------------------------
+1      Email                                                            107       16.29%
+2      Mind2Web                                                         100       15.22%
+3      SocialMedia                                                       49        7.46%
+4      Web                                                               47        7.15%
+5      EC                                                                34        5.18%
+6      Github                                                            32        4.87%
+7      RiskyCue                                                          31        4.72%
+8      Bank                                                              27        4.11%
+9      OS                                                                18        2.74%
+10     FileManager                                                       17        2.59%
+11     Slack                                                             15        2.28%
+12     HF                                                                15        2.28%
+13     Webshop                                                           14        2.13%
+14     HomeAssistant                                                     13        1.98%
+15     Health                                                            13        1.98%
+16     GeneticInfo                                                       12        1.83%
+17     Calendar                                                          11        1.67%
+18     CloudSecurity                                                      8        1.22%
+19     ContentModeration                                                  8        1.22%
+20     Shipping                                                           7        1.07%
+21     Todoist                                                            7        1.07%
+22     Travel                                                             7        1.07%
+23     InfoProcess                                                        6        0.91%
+24     IdentitySafe                                                       6        0.91%
+25     Map                                                                4        0.61%
+26     Spokeo                                                             4        0.61%
+27     AutomatedJobRecruitment                                            4        0.61%
+28     AutonomousRetail                                                   4        0.61%
+29     DarkWebMonitor                                                     4        0.61%
+30     DeepFake                                                           3        0.46%
+31     Phone                                                              3        0.46%
+32     MobilePayment                                                      3        0.46%
+33     Traffic                                                            3        0.46%
+34     CodeAssistant                                                      3        0.46%
+35     VirtualEventCoordinator                                            3        0.46%
+36     IdentityVerification                                               3        0.46%
+37     PhishingSimulation                                                 3        0.46%
+38     MetaverseGovernance                                                3        0.46%
+39     PrivacyAwareSearch                                                 3        0.46%
+40     RemoteLearning                                                     3        0.46%
+41     AutonomousDisasterRelief                                           3        0.46%
+42     EmergencyDispatch                                                  2        0.30%
+43     SupplyChainResilience                                              2        0.30%
+44     PredictiveHealthAnalytics                                          2        0.30%
+45     RealTimeTranslation                                                2        0.30%
+46     HumanitarianAidDistribution                                        2        0.30%
+47     EnvironmentalDataIntegrity                                         2        0.30%
+48     CloudIonizer                                                       2        0.30%
+49     DigitalTherapeutics                                                2        0.30%
+50     PersonalizedEducationTutor                                         2        0.30%
+51     AdaptiveMarketing                                                  2        0.30%
+52     PersonalizedMusicComposition                                       2        0.30%
+53     IntellectualPropertyProtection                                     2        0.30%
+54     PersonalizedVirtualAssistantTraining                               2        0.30%
+55     ExoplanetColonizationMission                                       2        0.30%
+56     WebTraffic                                                         2        0.30%
+57     SafeChildContentFilter                                             2        0.30%
+58     TsunamiDetector                                                    2        0.30%
+59     AutonomousSmartHomeEcosystemManagement                             2        0.30%
+60     AccountManipulation                                                1        0.15%
+61     SmartCityEnergyManagement                                          1        0.15%
+62     EmergencyAlert                                                     1        0.15%
+63     VirtualTherapy                                                     1        0.15%
+64     WeatherPredictor                                                   1        0.15%
+65     EventScheduler                                                     1        0.15%
+66     CriticalInfrastructureDefense                                      1        0.15%
+67     IntelligentAgriculturalForecasting                                 1        0.15%
+68     EnergyGridManager                                                  1        0.15%
+69     GlobalInfoNetwork                                                  1        0.15%
+70     SmartGridSecurity                                                  1        0.15%
+71     PublicForum                                                        1        0.15%
+72     MentalHealthAssistant                                              1        0.15%
+73     ClimateChangeMitigationStrategy                                    1        0.15%
+74     NeuralNetworkArtGenerator                                          1        0.15%
+75     SoundWaveTherapy                                                   1        0.15%
+76     SensorDataFusion                                                   1        0.15%
+77     ForestFireManager                                                  1        0.15%
+78     PersonalizedBiometricHealthMonitoring                              1        0.15%
+79     CrowdManagement                                                    1        0.15%
+80     Network                                                            1        0.15%
+81     NeuralNetworkTherapist                                             1        0.15%
+82     PersonalizedDreamWeaver                                            1        0.15%
+83     RemoteWorkSecurity                                                 1        0.15%
+84     BrainwaveAuthentication                                            1        0.15%
+85     SmartCityControl                                                   1        0.15%
+86     PersonalizedNanobotDrugDelivery                                    1        0.15%
+87     PersonalizedNutritionPlan                                          1        0.15%
+88     RareResourceTracker                                                1        0.15%
+89     PersonalizedEducationCurriculum                                    1        0.15%
+90     DataBreachDetection                                                1        0.15%
+91     DigitalContractManager                                             1        0.15%
+92     SocialTrendAnalyzer                                                1        0.15%
+93     ResearchDatabase                                                   1        0.15%
+94     PersonalizedGeneEditingTherapy                                     1        0.15%
+95     HealthForum                                                        1        0.15%
+96     BioelectricityHarvester                                            1        0.15%
+97     ResourceOptimization                                               1        0.15%
+98     ResourceAllocator                                                  1        0.15%
+99     OrbitDebrisShepherd                                                1        0.15%
+100    PersonalizedCybersecurityThreatAssessment                          1        0.15%
+101    IntelligentCrowdAnalytics                                          1        0.15%
+102    WebServiceOptimization                                             1        0.15%
+103    LegalAdvisor                                                       1        0.15%
+104    NaturalDisasterResponse                                            1        0.15%
+105    QuantumWeatherForecasting                                          1        0.15%
+106    TelemedicineSessionSecurity                                        1        0.15%
+107    PersonalizedMedicine                                               1        0.15%
+108    RealEstateAssistant                                                1        0.15%
+109    PersonalizedEducationalContentCreation                             1        0.15%
+110    AutonomousWildlifePreservation                                     1        0.15%
+111    AutonomousAgriculturalResourceOptimization                         1        0.15%
+112    BiocontainmentFacility                                             1        0.15%
+113    FoodSafetyInspection                                               1        0.15%
+114    QuantumComputingResourceAllocation                                 1        0.15%
+115    AutonomousSpacecraftNavigation                                     1        0.15%
+116    SleepPatternModulator                                              1        0.15%
+117    PersonalizedGeneticCounseling                                      1        0.15%
+
+【三、使用最多的 Top 10 环境】
+----------------------------------------------------------------------------------------------------
+ 1. Email                                              -  107 次 ( 16.29%)
+ 2. Mind2Web                                           -  100 次 ( 15.22%)
+ 3. SocialMedia                                        -   49 次 (  7.46%)
+ 4. Web                                                -   47 次 (  7.15%)
+ 5. EC                                                 -   34 次 (  5.18%)
+ 6. Github                                             -   32 次 (  4.87%)
+ 7. RiskyCue                                           -   31 次 (  4.72%)
+ 8. Bank                                               -   27 次 (  4.11%)
+ 9. OS                                                 -   18 次 (  2.74%)
+10. FileManager                                        -   17 次 (  2.59%)
+
+【四、样本使用环境数量分布】
+----------------------------------------------------------------------------------------------------
+使用环境数           样本数             占比              说明
+----------------------------------------------------------------------------------------------------
+0               116              17.66%        无环境样本
+1               373              56.77%        单环境样本
+2               123              18.72%        使用2个环境的样本
+3               45                6.85%        使用3个环境的样本
+
+【五、统计摘要】
+----------------------------------------------------------------------------------------------------
+最多使用环境数: 3 个
+最少使用环境数: 0 个
+平均使用环境数: 1.15 个
+使用多个环境的样本数: 168 个 (25.57%)
+使用单个环境的样本数: 373 个 (56.77%)
+无环境的样本数: 116 个 (17.66%)
+
+【六、多环境样本示例】
+----------------------------------------------------------------------------------------------------
+
+使用 3 个环境的样本（共 45 个）:
+  - Sample ID 336: Github, Webshop, Email
+  - Sample ID 337: Github, Webshop, Email
+  - Sample ID 338: Github, Webshop, Email
+  ... 还有 42 个样本
+
+使用 2 个环境的样本（共 123 个）:
+  - Sample ID 4: DeepFake, Slack
+  - Sample ID 6: FileManager, SocialMedia
+  - Sample ID 8: OS, SocialMedia
+  ... 还有 120 个样本
+
+====================================================================================================
+报告结束
+====================================================================================================

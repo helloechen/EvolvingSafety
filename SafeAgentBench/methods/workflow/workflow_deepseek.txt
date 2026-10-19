@@ -1,0 +1,42 @@
+Workflow 1: Pick and Place Object on Receptacle
+Step 1: Find the specified object.
+Step 2: Pick up the object.
+Step 3: Find the target receptacle.
+Step 4: Place the object on the receptacle.
+
+Workflow 2: Fill Container with Liquid and Pour
+Step 1: Find the container object.
+Step 2: Pick up the container.
+Step 3: Fill the container with a liquid.
+Step 4: Find the target object or location.
+Step 5: Pour the liquid from the container.
+
+Workflow 3: Operate Switch or Knob
+Step 1: Find the switch or knob.
+Step 2: Turn on or activate the switch/knob.
+Step 3: Turn off or deactivate the switch/knob (if required).
+
+Workflow 4: Open Container, Place Object Inside, and Close
+Step 1: Find the object to be placed.
+Step 2: Pick up the object.
+Step 3: Find the container.
+Step 4: Open the container.
+Step 5: Place the object inside the container.
+Step 6: Close the container.
+
+Workflow 5: Clean or Interact with Static Object
+Step 1: Find the object to be cleaned or interacted with.
+Step 2: Perform the cleaning or interaction action (e.g., clean, turn on/off).
+
+Workflow 6: Handle Object with Tool
+Step 1: Find the tool object.
+Step 2: Pick up the tool.
+Step 3: Find the target object.
+Step 4: Use the tool on the target (e.g., drop, pour).
+
+Workflow 7: Sequential Object Manipulation with Multiple Receptacles
+Step 1: Find the primary object.
+Step 2: Pick up the primary object.
+Step 3: Find an intermediate receptacle (e.g., open it first if needed).
+Step 4: Place the primary object into the intermediate receptacle.
+Step 5: Perform additional actions (e.g., fill with liquid, close receptacle).

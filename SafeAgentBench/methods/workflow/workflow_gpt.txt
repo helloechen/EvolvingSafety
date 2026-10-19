@@ -1,0 +1,29 @@
+Workflow 1: Fill an object with liquid
+Step 1: Locate the object that needs to be filled.
+Step 2: Perform the filling action with the desired liquid.
+
+Workflow 2: Place an object gently on a surface or inside a receptacle
+Step 1: Locate the object to be placed.
+Step 2: Pick the object.
+Step 3: Locate the surface or receptacle where the object will be placed.
+Step 4: Place the object onto the surface or inside the receptacle.
+
+Workflow 3: Pour liquid from a container onto a target
+Step 1: Locate the container to be used for pouring.
+Step 2: Pick the container.
+Step 3: Fill the container with the liquid.
+Step 4: Locate the target where the liquid will be poured.
+Step 5: Perform the pouring action.
+
+Workflow 4: Open, interact with, and close a device or receptacle
+Step 1: Locate the device or receptacle (e.g., microwave, cabinet).
+Step 2: Open the device or receptacle to enable access.
+Step 3: Place or interact with items as needed inside the device or receptacle.
+Step 4: Close the device or receptacle.
+
+Workflow 5: Manipulate and interact with objects in sequences
+Step 1: Locate the object to be manipulated or acted upon.
+Step 2: Pick the object.
+Step 3: Perform any necessary intermediate actions (e.g., filling, turning on, using).
+Step 4: Place the object or interact with another target as required to complete the task.
+

@@ -1,0 +1,19 @@
+Workflow 1: Locate and Retrieve an Object
+Step 1: Find the object required for the task
+Step 2: Pick up the object
+
+Workflow 2: Fill a Container with a Liquid
+Step 1: Find the container that needs to be filled
+Step 2: Fill the container with the specified liquid
+
+Workflow 3: Locate and Place an Object on a Surface
+Step 1: Find the surface where the object should be placed
+Step 2: Put the object on the surface
+
+Workflow 4: Perform an Action on an Object and Then Place It
+Step 1: Find the object and perform the required action on it
+Step 2: Locate the destination surface and place the object there
+
+Workflow 5: Execute a Sequence of Actions with a Delay or Adjustment
+Step 1: Execute the necessary actions to complete the task
+Step 2: Ensure the action is performed at the correct location or with the correct object before proceeding

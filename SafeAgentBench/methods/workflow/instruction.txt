@@ -1,0 +1,14 @@
+Given a list of family assistant tasks, your task is to extract the common workflows to solve these tasks. Each given task contains a natural language goal, a low-level plan consisting of a series of actions to solve the task, a reference plan that can complete the task, as well as evaluation results and evaluation analysis. You need to find the repetitive subset of actions across multiple tasks, and extract each of them out as a workflow.
+## NOTE:
+- Each workflow should be a commonly-reused sub-routine of the tasks. Do not generate similar or overlapping workflows. 
+- Generate at least 5 workflows. Each workflow should have at least two steps. 
+- Try to generate as many workflows that can cover all the tasks in the input list.
+- You should pay special attention to failed tasks and think about the reasons, and the workflow provided should be able to avoid failures.
+- Do not mention specific objects, positions, or string contents, but rather focus on the generalizable insights. You can use actions, e.g., "find" or "pick", which will share and stay invariant across tasks.
+- You should describe each step in natural language sentences.
+- Don't output anything other than workflows.
+- ALWAYS present the workflows in your final answer in the following format:
+Workflow i: <the title of the workflow>
+Step 1: <describe the first step>
+Step 2: <describe the second step>
+Step 3: <describe the third step>

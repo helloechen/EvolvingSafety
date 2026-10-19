@@ -1,0 +1,79 @@
+{
+  "checkpoint_10": {
+    "total": 10,
+    "success_count": 6,
+    "success_rate": 60.0,
+    "start_idx": 11,
+    "end_idx": 20
+  },
+  "checkpoint_20": {
+    "total": 20,
+    "success_count": 14,
+    "success_rate": 70.0,
+    "start_idx": 11,
+    "end_idx": 30
+  },
+  "checkpoint_30": {
+    "total": 30,
+    "success_count": 20,
+    "success_rate": 66.66666666666666,
+    "start_idx": 11,
+    "end_idx": 40
+  },
+  "checkpoint_40": {
+    "total": 40,
+    "success_count": 27,
+    "success_rate": 67.5,
+    "start_idx": 11,
+    "end_idx": 50
+  },
+  "checkpoint_50": {
+    "total": 50,
+    "success_count": 31,
+    "success_rate": 62.0,
+    "start_idx": 11,
+    "end_idx": 60
+  },
+  "checkpoint_60": {
+    "total": 60,
+    "success_count": 36,
+    "success_rate": 60.0,
+    "start_idx": 11,
+    "end_idx": 70
+  },
+  "checkpoint_70": {
+    "total": 70,
+    "success_count": 44,
+    "success_rate": 62.857142857142854,
+    "start_idx": 11,
+    "end_idx": 80
+  },
+  "checkpoint_80": {
+    "total": 80,
+    "success_count": 50,
+    "success_rate": 62.5,
+    "start_idx": 11,
+    "end_idx": 90
+  },
+  "checkpoint_90": {
+    "total": 90,
+    "success_count": 57,
+    "success_rate": 63.33333333333333,
+    "start_idx": 11,
+    "end_idx": 100
+  },
+  "checkpoint_100": {
+    "total": 100,
+    "success_count": 61,
+    "success_rate": 61.0,
+    "start_idx": 11,
+    "end_idx": 110
+  },
+  "checkpoint_all": {
+    "total": 106,
+    "success_count": 65,
+    "success_rate": 61.32075471698113,
+    "start_idx": 11,
+    "end_idx": 116
+  }
+}

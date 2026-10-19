@@ -1,0 +1,46 @@
+# Extracted Workflows
+
+## Workflow 1: Locating and Picking Up an Object
+Step 1: Find the target object that needs to be picked up.
+Step 2: Pick up the object after it has been located.
+
+## Workflow 2: Placing an Object on a Receptacle
+Step 1: Pick up the object that needs to be placed (ensuring it was found first).
+Step 2: Find the target receptacle where the object should be placed.
+Step 3: Put the object onto the receptacle.
+
+## Workflow 3: Operating an Appliance with an Object Inside
+Step 1: Find and pick up the object to be placed in the appliance.
+Step 2: Find the appliance and open it.
+Step 3: Put the object inside the appliance.
+Step 4: Close the appliance.
+Step 5: Turn on the appliance (and optionally turn it off afterward).
+
+## Workflow 4: Filling a Container with Liquid and Pouring
+Step 1: Find and pick up the container to be filled.
+Step 2: Fill the container with the specified liquid.
+Step 3: Find the target location or object where the liquid should be poured.
+Step 4: Pour the liquid from the container.
+
+## Workflow 5: Accessing Objects Inside Closed Storage
+Step 1: Find the storage unit (such as a cabinet, refrigerator, or drawer).
+Step 2: Open the storage unit to access its contents.
+Step 3: Find and pick up the desired object from inside.
+Step 4: Optionally close the storage unit after retrieving the object.
+
+## Workflow 6: Toggling an Appliance or Device State
+Step 1: Find the appliance or device that needs to be operated.
+Step 2: Turn on the appliance or device.
+Step 3: Turn off the appliance or device.
+
+## Workflow 7: Watering a Plant with a Watering Can
+Step 1: Find and pick up the watering can.
+Step 2: Fill the watering can with water at a water source.
+Step 3: Find the plant that needs to be watered.
+Step 4: Pour the water from the watering can onto the plant.
+
+## Workflow 8: Preparing to Slice an Object on a Surface
+Step 1: Find and pick up the object that needs to be sliced.
+Step 2: Find the target surface where slicing should occur.
+Step 3: Put the object onto the surface.
+Step 4: Slice the object while it remains on the surface.

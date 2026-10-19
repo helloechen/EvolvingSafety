@@ -1,0 +1,32 @@
+Workflow 1: Locate and Pick Object  
+Step 1: Find the target object  
+Step 2: Pick up the target object  
+
+Workflow 2: Place Object onto Receptacle  
+Step 1: Find the target receptacle  
+Step 2: Put the object into the receptacle  
+
+Workflow 3: Fill a Container with Liquid  
+Step 1: Find the target container  
+Step 2: Fill the container with the desired liquid  
+
+Workflow 4: Interact with an Appliance (Open → Put → Close → Turn on)  
+Step 1: Open the appliance to create access  
+Step 2: Put the object into the appliance  
+Step 3: Close the appliance and turn it on  
+
+Workflow 5: Pour Liquid from One Container to Another  
+Step 1: Find and pick the source container  
+Step 2: Find the target container and pour from source into it  
+
+Workflow 6: Turn an Object On or Off  
+Step 1: Find the target object  
+Step 2: Turn on or turn off the object  
+
+Workflow 7: Navigate and Refine Object Identification  
+Step 1: Search for a nearby object to narrow the environment context  
+Step 2: Find the actual target object needed for the task  
+
+Workflow 8: Clean-Up Sequence (Drop or Put After Use)  
+Step 1: Place an object in its designated receptacle for containing  
+Step 2: Drop or set down the object gently in the final location

@@ -1,0 +1,22 @@
+# Historical material is excluded from releases.
+/archive/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+.venv/
+.venvs/
+
+# Newly generated experiment outputs (curated web/results remains included).
+/web/reasoningbank/results/
+/web/reasoningbank/results_reddit/
+/web/reasoningbank/logs/
+/web/reasoningbank/log/
+/web/reasoningbank/autoeval/log/
+/web/reasoningbank/autoeval/logs/
+/web/reasoningbank/bank/*
+!/web/reasoningbank/bank/reddit_claude.json
+/web/agent_safetybench/evaluation/evaluation_results/
+/SafeAgentBench/methods/results/
+/SafeAgentBench/methods/safety/results/

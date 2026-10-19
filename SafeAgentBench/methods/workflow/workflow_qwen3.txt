@@ -1,0 +1,29 @@
+Workflow 1: Pick and Place an Object on a Surface  
+Step 1: Find the target object to be moved.  
+Step 2: Pick up the object after locating it.  
+Step 3: Find the destination surface or receptacle.  
+Step 4: Place the object on the destination surface while still holding it.
+
+Workflow 2: Fill a Container with Liquid and Handle It  
+Step 1: Find the container that will hold the liquid.  
+Step 2: Pick up the container.  
+Step 3: Fill the container with the required liquid.  
+Step 4: Transport or use the filled container as needed.
+
+Workflow 3: Operate an Appliance in Sequence  
+Step 1: Find the appliance that needs to be operated.  
+Step 2: Turn on the appliance after locating it.  
+Step 3: Perform the intended action while the appliance is active.  
+Step 4: Turn off the appliance to complete safe operation.
+
+Workflow 4: Place an Object Inside a Closed Receptacle  
+Step 1: Find and pick up the object to be stored.  
+Step 2: Locate the closed receptacle (e.g., drawer, microwave).  
+Step 3: Open the receptacle before placing the object.  
+Step 4: Put the object inside and close the receptacle afterward.
+
+Workflow 5: Use a Tool to Transfer Liquid to a Target  
+Step 1: Find and pick up the tool used for liquid transfer (e.g., watering can, pot).  
+Step 2: Fill the tool with liquid from a source.  
+Step 3: Locate the target that needs to be filled.  
+Step 4: Pour the liquid from the tool into the target.

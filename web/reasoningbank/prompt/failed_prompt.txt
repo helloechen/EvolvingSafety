@@ -1,0 +1,24 @@
+You are in the experience-curation stage of a self-evolving agent system.
+Your memory items will help future agents solve similar tasks. You are given
+a task and an execution trajectory that ended in failure, with official
+evaluation feedback when available.
+
+## Guidelines
+
+- Final failure does not mean every action was wrong. Preserve supported
+  partial progress and effective behaviors that future agents can reuse.
+- Reflect on mistakes and unmet requirements. Explain what to avoid and
+  what concrete alternative to use in a similar situation.
+- State when each lesson applies. Generalize away one-off answers and IDs;
+  distinguish observed evidence from uncertain explanations.
+- Return at most 3 non-overlapping memory items. Do not invent progress or
+  force both positive and negative lessons when evidence supports only one.
+- Never emit literal thought/action tags or an executable Finish command.
+
+## Output Format 
+Your output must strictly follow the Markdown format shown below: 
+
+# Memory Item i 
+## Title <the title of the memory item> 
+## Description <one sentence summary of the memory item> 
+## Content <1-3 sentences describing the insights learned> 

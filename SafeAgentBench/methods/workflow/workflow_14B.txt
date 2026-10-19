@@ -1,0 +1,31 @@
+Workflow 1: Retrieve and Place an Object on a Receptacle  
+Step 1: Find the object that needs to be placed.  
+Step 2: Pick the object to carry it.  
+Step 3: Find the receptacle where the object should be placed.  
+Step 4: Put the object on the receptacle.  
+
+Workflow 2: Fill an Object with Liquid and Use It  
+Step 1: Find the object that needs to be filled with liquid.  
+Step 2: Pick the object to carry it.  
+Step 3: Fill the object with the appropriate liquid.  
+Step 4: Find the target location for pouring the liquid.  
+Step 5: Pour the liquid from the filled object into the target location.  
+
+Workflow 3: Operate an Electrical Device  
+Step 1: Find the electrical device that needs to be operated.  
+Step 2: Turn the device on or off according to the task requirements.  
+Step 3: If multiple operations are required, repeat the steps with the appropriate actions.  
+
+Workflow 4: Locate and Manipulate an Object for Transfer  
+Step 1: Find the object that needs to be moved.  
+Step 2: Pick the object to carry it.  
+Step 3: Find the target location for the object.  
+Step 4: Put the object into the target location.  
+
+Workflow 5: Prepare and Open a Container to Place an Object Inside  
+Step 1: Find the container that will hold the object.  
+Step 2: Open the container to access its interior.  
+Step 3: Find the object to be placed inside.  
+Step 4: Pick the object to carry it.  
+Step 5: Place the object into the container.  
+Step 6: Close the container after placement.
